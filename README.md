@@ -1,8 +1,8 @@
 
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><h1>Hello, I'm Itamar Gouveia</h1> 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><h1>Olá, eu sou Itamar Gouveia</h1> 
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
 
 # 👨🏻‍💻 &nbsp;Sobre mim
 
