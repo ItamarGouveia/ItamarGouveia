@@ -4,19 +4,19 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-# 👨🏻‍💻 &nbsp;About Me
+# 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a Database Graduate
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Artificial Intelligence and Big Data as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at itamargouveia.dev@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [CV](https://www.itamargouveia.com.br/cv) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software e hacks rápidos.\
+🎓 &nbsp;Sou Tecnólogo em Banco de dados
+🌱 &nbsp;Estou no caminho certo para aprender mais sobre Inteligência Artificial, Design de Sistemas e Arquitetura de Nuvem.\
+✍️ &nbsp;No meu tempo livre, busco Inteligência Artificial e Big Data como hobbie\
+💬 &nbsp;Sinta-se à vontade para entrar em contato comigo para consultoria e voluntariado pro bono, ou apenas para uma discussão interessante.\
+✉️ &nbsp;Você pode me mandar um email para itamargouveia.dev@gmail.com! Tentarei responder assim que puder.\
+📄 &nbsp;Por favor, dê uma olhada no meu [CV](https://www.itamargouveia.com.br/cv) para mais detalhes sobre mim. Estou aberto a comentários e sugestões!
 
 
 
-# 🛠 &nbsp;Tech Stack
+# 🛠 &nbsp;Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-3e3e3e?style=for-the-badge&logo=python)&nbsp;
 
