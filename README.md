@@ -34,8 +34,8 @@
 ## ⚙️ &nbsp;Análise do Github
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ItamarGouveia&show_icons=true&theme=vision-friendly-dark" alt="ItamarGouveia's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarGouveia&layout=compact&theme=vision-friendly-dark" alt="ItamarGouveia's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ItamarGouveia&show_icons=true&theme=slateorange" alt="ItamarGouveia's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarGouveia&layout=compact&theme=slateorange" alt="ItamarGouveia's most languages"/>
 </p>
 
 <br><br>
