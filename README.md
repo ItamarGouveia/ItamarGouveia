@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ItamarGouveia/a24f3a302596a241045c5d6c0ad6ac5d/raw/874747c5d2511271a1729ed8cd8d62f64f5e056e/githubcard.svg"/>
+
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,Eu sou Itamar Gouveia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ItamarGouveia&color=yellow" alt="Profile views" /> </p>
 
